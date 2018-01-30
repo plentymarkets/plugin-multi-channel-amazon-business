@@ -26,7 +26,7 @@ Amazon Business ermöglicht die Chancen, den Umsatz schnell und einfach zu steig
 
 ## Umsatzsteuer-Berechnungsservice
 
-Der Umsatzsteuer-Berechnungsservice erstellt automatisch Umsatzsteuer-Rechnungen für alle Bestellungen und zeigt Geschäftskunden Nettopreise an. Des Weiteren erhöht der Umsatzsteuer-Berechnungsservice nach erfolgreicher Anmeldung Ihre BuyBox-Quote. [Hier](https://sellercentral-europe.amazon.com/tax/registrations?context=enrollment&ref=xx_b2b_tcsfaqs_tcsenrol&)Hier melden Sie sich für den Umsatzsteuer-Berechnungsservice an.
+Der Umsatzsteuer-Berechnungsservice erstellt automatisch Umsatzsteuer-Rechnungen für alle Bestellungen und zeigt Geschäftskunden Nettopreise an. Des Weiteren erhöht der Umsatzsteuer-Berechnungsservice nach erfolgreicher Anmeldung Ihre BuyBox-Quote. [Hier](https://sellercentral-europe.amazon.com/tax/registrations?context=enrollment&ref=xx_b2b_tcsfaqs_tcsenrol&) melden Sie sich für den Umsatzsteuer-Berechnungsservice an.
 
 ## Kooperation mit plentymarkets
 
