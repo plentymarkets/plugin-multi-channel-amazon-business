@@ -15,7 +15,6 @@ After having successfully launched in the US and Germany, Amazon Business is now
 <li><a href="https://sellercentral.amazon.co.uk/tax/registrations?context=enrollment&ref_=as_int_uk_ple_vcsregf" target="_blank">VAT Calculation Service</a> allows automatic VAT invoicing and VAT-exclusive prices</li>
 <li>Fulfillment by Amazon: With FBA, sellers can store their products in Amazon’s fulfillment centers. When customer orders are received, Amazon will pick, pack, ship and provide customer service for these products. With Amazon’s <a href="https://services.amazon.co.uk/services/fulfilment-by-amazon/pan-european-fba.html" target="_blank">Pan-European FBA program</a>, Amazon Business sellers of any size can reach customer in other EU countries. Sellers listing products with FBA make them eligible for free shipping, and for winning the Amazon Buy Box.</li></ul>
 
-Über den folgenden Link gelangen Sie zur Amazon Business Registrierung: [Jetzt registrieren](https://services.amazon.de/programme/b2b-verkaufen/merkmale-und-vorteile.html)
 
 ## VAT Calculation Service
 
