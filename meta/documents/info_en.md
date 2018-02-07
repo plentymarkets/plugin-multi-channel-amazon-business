@@ -4,7 +4,7 @@
 
 <div class="container-toc"></div>
 
-After having successfully launched in the US and Germany, Amazon Business is now available on Amazon.co.uk. [Amazon Business](https://sellercentral.amazon.co.uk/business/b2bregistration?ref_=as_int_uk_ple_abreg) provides eligible Amazon sellers with [features and benefits](https://services.amazon.co.uk/services/reach-business-customers/features-and-benefits.html?ref_=as_int_uk_ple_mkt)features and benefits specifically targeted to businesses. The business service provides quantity discounts on multi-unit purchases and price discounts just for businesses as well as VAT-free pricing. Amazon business helps sellers reach new business customers and thus increase their sales.
+After having successfully launched in the US and Germany, Amazon Business is now available on Amazon.co.uk. <a href="https://sellercentral.amazon.co.uk/business/b2bregistration?ref_=as_int_uk_ple_abreg" target="_blank">Amazon Business</a> provides eligible Amazon sellers with <a href="https://services.amazon.co.uk/services/reach-business-customers/features-and-benefits.html?ref_=as_int_uk_ple_mkt" target="_blank">features and benefits</a> specifically targeted to businesses. The business service provides quantity discounts on multi-unit purchases and price discounts just for businesses as well as VAT-free pricing. Amazon business helps sellers reach new business customers and thus increase their sales.
 
 
 ## Features and benefits at a glance:
@@ -18,10 +18,11 @@ After having successfully launched in the US and Germany, Amazon Business is now
 
 ## VAT Calculation Service
 
-[Sign up](https://sellercentral.amazon.co.uk/tax/registrations?context=enrollment&ref_=as_int_uk_ple_vcsreg) for Amazon's new VAT Calculation Service so that business customers see VAT-exclusive prices on Amazon.co.uk. This increases your chances of winning the buy box. The service, once activated, will also provide VAT invoices on your behalf for your Amazon customers. [Click here](https://m.media-amazon.com/images/G/03/B2B/VCS-Webinar_UK._V530121075_.pdf) to learn more about the service or here for [FAQs](https://images-na.ssl-images-amazon.com/images/G/03/B2B/EN_VAT-Calculation-Service_FAQs._V277162249_.pdf).
+<a href="https://sellercentral.amazon.co.uk/tax/registrations?context=enrollment&ref_=as_int_uk_ple_vcsreg" target="_blank">Sign up</a> for Amazon's new VAT Calculation Service so that business customers see VAT-exclusive prices on Amazon.co.uk. This increases your chances of winning the buy box. The service, once activated, will also provide VAT invoices on your behalf for your Amazon customers. <a href="https://sellercentral.amazon.co.uk/business/b2bregistration?ref_=as_int_uk_ple_abreg" target="_blank">Click here</a> to learn more about the service or here for <a href="https://images-na.ssl-images-amazon.com/images/G/03/B2B/EN_VAT-Calculation-Service_FAQs._V277162249_.pdf" target="_blank">FAQs</a>.
+
 ## Cooperation with plentymarkets
 
-As all of the new business features are already available in your plentymarkets system, selling to businesses is now as easy as selling to private customers. [Register](https://sellercentral.amazon.co.uk/business/b2bregistration?ref_=as_int_uk_ple_abreg) with Amazon Business now and start selling with plentymarkets in just a few steps:
+As all of the new business features are already available in your plentymarkets system, selling to businesses is now as easy as selling to private customers. <a href="https://sellercentral.amazon.co.uk/business/b2bregistration?ref_=as_int_uk_ple_abreg" target="_blank">Register</a> with Amazon Business now and start selling with plentymarkets in just a few steps:
 
 <ul><li>Activate your Amazon account for Amazon Business</li>
 <li>Create special business prices and quantity based discounts</li>

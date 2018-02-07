@@ -22,11 +22,11 @@ Amazon Business ermöglicht die Chancen, den Umsatz schnell und einfach zu steig
 <li>Umsatzsteuer-Berechnungsservice ermöglicht die Anzeige von Netto-Preisen und automatische Rechnungsstellung</li>
 <li>Eigener Versand oder Versand durch Amazon</li></ul>
 
-Über den folgenden Link gelangen Sie zur Amazon Business Registrierung: [Jetzt registrieren](https://services.amazon.de/programme/b2b-verkaufen/merkmale-und-vorteile.html)
+Über den folgenden Link gelangen Sie zur Amazon Business Registrierung: <a href="https://services.amazon.de/programme/b2b-verkaufen/merkmale-und-vorteile.html" target="_blank">Jetzt registrieren</a>
 
 ## Umsatzsteuer-Berechnungsservice
 
-Der Umsatzsteuer-Berechnungsservice erstellt automatisch Umsatzsteuer-Rechnungen für alle Bestellungen und zeigt Geschäftskunden Nettopreise an. Des Weiteren erhöht der Umsatzsteuer-Berechnungsservice nach erfolgreicher Anmeldung Ihre BuyBox-Quote. [Hier](https://sellercentral-europe.amazon.com/tax/registrations?context=enrollment&ref=xx_b2b_tcsfaqs_tcsenrol&) melden Sie sich für den Umsatzsteuer-Berechnungsservice an.
+Der Umsatzsteuer-Berechnungsservice erstellt automatisch Umsatzsteuer-Rechnungen für alle Bestellungen und zeigt Geschäftskunden Nettopreise an. Des Weiteren erhöht der Umsatzsteuer-Berechnungsservice nach erfolgreicher Anmeldung Ihre BuyBox-Quote. <a href="https://sellercentral-europe.amazon.com/tax/registrations?context=enrollment&ref=xx_b2b_tcsfaqs_tcsenrol&" target="_blank">Hier</a> melden Sie sich für den Umsatzsteuer-Berechnungsservice an.
 
 ## Kooperation mit plentymarkets
 
