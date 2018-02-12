@@ -9,6 +9,6 @@
  
 <a href="mailto:https://www.plentymarkets.eu/">support@plentymarkets.com</a>
 
-## Handbuch
+## Manual
 
 <a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/amazon/amazon-einrichten" target="_blank">Knowledge</a>
