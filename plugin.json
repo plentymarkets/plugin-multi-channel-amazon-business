@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "marketplaceName": "Amazon Business",
   "name": "AmazonBusiness",
-  "description": "Plugin für Amazon Business. Um Amazon Business in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Amazon nötig.",
+  "description": "Um Amazon Business in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Amazon nötig.",
   "namespace": "MultiChannelAmazonBusiness",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentymarkets GmbH",
