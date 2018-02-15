@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "marketplaceName": "Amazon Business",
   "name": "AmazonBusiness",
   "description": "Um Amazon Business in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Amazon nötig.",
@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Das Amazon Business Feature ist in plentymarkets 7 bereits integriert. Um Amazon Business in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Amazon nötig.",
-    "en": "Amazon Business is already integrated into your plentymarkets 7 system. An Amazon seller account is mandatory for setting up Amazon Business in plentymarkets."
+    "de": "Über das Feature Amazon Business wird der B2B-Handel für den Online-Marktplatz Amazon ermöglicht.",
+    "en": "The Amazon Business feature enables the usage of B2B commerce for the online market Amazon."
   },
   "license": "AGPL-3.0",
   "categories": [
