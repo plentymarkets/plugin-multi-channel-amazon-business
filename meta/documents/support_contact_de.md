@@ -11,4 +11,4 @@
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/amazon/amazon-einrichten" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/amazon/amazon-einrichten#4550" target="_blank">Knowledge</a>
