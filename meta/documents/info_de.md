@@ -10,7 +10,7 @@ Amazon Business spielte bereits im ersten Jahr nach seinem Start in den USA übe
 Das Verkäuferprogramm bietet registrierten Amazon-Händlern speziell auf Unternehmen zugeschnittene Funktionen und Vorteile. So erhalten Unternehmen, Großkonzerne und institutionelle Käufer Zugriff auf Artikel, die sich speziell an Geschäftskunden richten und entsprechende Preise ausweisen.
 
 
-Amazon Business ermöglicht die Chancen, den Umsatz schnell und einfach zu steigern. Zum einen spricht Amazon Business eine neue Zielgruppe an und lässt somit Händler von neuen Absatzwegen profitieren. Zum anderen tätigen Unternehmen größere Bestellungen, die den durchschnittlichen Warenkorbwert erhöhen und mehr Umsatz erbringen.
+Amazon Business ermöglicht die Chance, den Umsatz schnell und einfach zu steigern. Zum einen spricht Amazon Business eine neue Zielgruppe an und lässt somit Händler von neuen Absatzwegen profitieren. Zum anderen tätigen Unternehmen größere Bestellungen, die den durchschnittlichen Warenkorbwert erhöhen und mehr Umsatz erbringen.
 
 
 ## Funktionen und Vorteile auf einen Blick
@@ -22,7 +22,7 @@ Amazon Business ermöglicht die Chancen, den Umsatz schnell und einfach zu steig
 <li>Umsatzsteuer-Berechnungsservice ermöglicht die Anzeige von Netto-Preisen und automatische Rechnungsstellung</li>
 <li>Eigener Versand oder Versand durch Amazon</li></ul>
 
-Über den folgenden Link gelangen Sie zur Amazon Business Registrierung: <a href="https://services.amazon.de/programme/b2b-verkaufen/merkmale-und-vorteile.html" target="_blank">Jetzt registrieren</a>
+Über den folgenden Link können Sie sich für Amazon Business registrieren: <a href="https://services.amazon.de/programme/b2b-verkaufen/merkmale-und-vorteile.html" target="_blank">Jetzt registrieren</a>
 
 ## Umsatzsteuer-Berechnungsservice
 

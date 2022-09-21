@@ -11,4 +11,4 @@
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/amazon#4550" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/amazon-business.html" target="_blank">Knowledge</a>
