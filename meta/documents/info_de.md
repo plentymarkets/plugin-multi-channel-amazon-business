@@ -31,4 +31,3 @@ Der Umsatzsteuer-Berechnungsservice erstellt automatisch Umsatzsteuer-Rechnungen
 ## Kooperation mit plentymarkets
 
 Mit plentymarkets lassen sich alle neuen Features des Verkäuferprogramms ganz einfach realisieren. Amazon Business in den Amazon-Grundeinstellungen des plentymarkets Systems aktivieren, speziell auf Amazon Business ausgerichtete Verkaufspreise und Mengenrabatte erstellen, Umsatzsteuerinformationen eintragen und schon können Sie an Geschäftskunden genauso einfach wie an Endkunden verkaufen.
-	

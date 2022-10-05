@@ -27,4 +27,3 @@ As all of the new business features are already available in your plentymarkets 
 <ul><li>Activate your Amazon account for Amazon Business</li>
 <li>Create special business prices and quantity based discounts</li>
 <li>Save value added tax information</li></ul>
-
